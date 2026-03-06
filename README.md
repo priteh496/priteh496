@@ -49,11 +49,11 @@ https://priteshsarode496.netlify.app/
 
 # 📊 GitHub Stats
 
-![Pritesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=priteh496&show_icons=true&theme=gruvbox)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=priteh496&show_icons=true&theme=gruvbox)
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=priteh496&theme=gruvbox)
+![GitHub Streak](https://streak-stats.demolab.com?user=priteh496&theme=gruvbox)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priteh496&layout=compact&theme=gruvbox)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=priteh496&layout=compact&theme=gruvbox)
 
 # 📫 Connect With Me
 
