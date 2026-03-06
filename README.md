@@ -50,11 +50,11 @@ https://priteshsarode496.netlify.app/
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=priteh496&show_icons=true&theme=gruvbox&cache_seconds=86400)
+
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=priteh496&theme=gruvbox)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priteh496&layout=compact&theme=gruvbox&cache_seconds=86400)
+
 # 📫 Connect With Me
 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:priteshsarode135@gmail.com)
