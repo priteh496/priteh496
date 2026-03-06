@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F7B93E&size=30&center=true&vCenter=true&width=600&lines=Hi+I'm+Pritesh+Sarode;Python+Developer;Automation+Engineer;Data+Analysis+Enthusiast)](https://git.io/typing-svg)
 # 👋 Hi, I'm Pritesh Sarode
 
 💻 Python Developer | Data Analyst | Freelance Web Developer  
