@@ -107,6 +107,10 @@ A collection of automation scripts designed to simplify repetitive tasks.
 ![GitHub Streak](https://streak-stats.demolab.com?user=priteh496&theme=gruvbox)
 
 ---
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/priteh496/priteh496/blob/output/github-contribution-grid-snake.svg)
+-----
 
 # 📈 Contribution Activity
 
@@ -135,9 +139,6 @@ A collection of automation scripts designed to simplify repetitive tasks.
 
 ![](https://visitcount.itsvg.in/api?id=priteh496&icon=0&color=0)
 
-## 🐍 Contribution Snake
-
-![Snake animation](https://github.com/priteh496/priteh496/blob/output/github-contribution-grid-snake.svg)
 
 ## 📈 3D Contribution Graph
 
