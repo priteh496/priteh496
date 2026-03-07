@@ -138,3 +138,7 @@ A collection of automation scripts designed to simplify repetitive tasks.
 ## 🐍 Contribution Snake
 
 ![Snake animation](https://github.com/priteh496/priteh496/blob/output/github-contribution-grid-snake.svg)
+
+## 📈 3D Contribution Graph
+
+![](https://raw.githubusercontent.com/priteh496/priteh496/profile-3d-contrib/profile-green-animate.svg)
